@@ -1,4 +1,4 @@
-import {PageItem, Pagination} from "react-bootstrap";
+import { Pagination} from "react-bootstrap";
 import {useState} from "react";
 import {createPaginationItems} from "../hooks/createPagination.jsx";
 
